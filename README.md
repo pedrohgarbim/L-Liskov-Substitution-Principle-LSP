@@ -25,3 +25,7 @@ No projeto que implementa o LSP:
 #### 🎯 Benefícios:
 - **Previsibilidade**: Garantimos que as subclasses substituem corretamente a classe base, evitando surpresas. 🎉
 - **Polimorfismo seguro**: O uso de herança 🧬 e polimorfismo se torna mais seguro e intuitivo, evitando bugs inesperados no sistema. 🛡️
+
+  ## Estrutura do Projeto
+  ![image](https://github.com/user-attachments/assets/31e86a19-81f7-4fa0-80f6-902725ec3b83)
+
