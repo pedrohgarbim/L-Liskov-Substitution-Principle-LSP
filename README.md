@@ -1,6 +1,6 @@
 
 
-# 🦅 Liskov Substitution Principle (LSP)
+# 🦅 Liskov Substitution Principle (LSP) 
 ![image](https://github.com/user-attachments/assets/a3020154-b1cd-4eb1-a106-cf5231fc8ddf)
 
 ## O que é o LSP?
