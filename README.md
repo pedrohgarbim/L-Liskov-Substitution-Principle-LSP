@@ -3,7 +3,7 @@
 # 🦅 Liskov Substitution Principle (LSP) 
 ![image](https://github.com/user-attachments/assets/a3020154-b1cd-4eb1-a106-cf5231fc8ddf)
 
-## O que é o LSP?
+## O que é o LSP? 
 
 O **Princípio da Substituição de Liskov (LSP)** diz que **subclasses devem poder substituir suas classes base** sem alterar o comportamento do sistema. 🔄 Em termos simples, se você pode substituir uma classe base por uma subclasse sem quebrar nada, você está seguindo o LSP. 🛡️
 
